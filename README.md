@@ -1,4 +1,4 @@
-# Natural Language Processing | Model: Translate
+# Natural Language Processing | Type: Translate
 
 NLP is a branch of Artificial Intelligence (AI) that gives computers the ability to understand, interpret, and generate human language.
 
